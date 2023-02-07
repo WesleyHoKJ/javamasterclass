@@ -62,7 +62,32 @@ Day 19 - Implementing a Security Policy
 
 Day 20 - Presentation of Project Teams
 
-##Ancilliary Content
+
+##Ancillary Content
+## Topics Covered in the Course
+
+| Topics | Category | Legends | Category |
+| --- | --- | --- | --- |
+| Regular Expressions | RegEx | RegEx | Powerful text pattern matching for all languages |
+| Database Administrations | DBA | DBA | Managing and Supporting a RDBMS and No-SQL databases |
+| Git Commands and Usage | DSCV | DSCV | Distributed Software Version Control |
+| GitHub Actions Functions | CD | CD | Continuous Deployment |
+| Linux/Unix Commands | CMD | CMD | Basic commands to navigate the Linux/Unix platforms |
+| Bash and Batch Scripting | BASH | BASH | Writing Automation scripts for DevOPs |
+| Jenkins/CircleCI/TravisCI | CI | CI | Continuous Integration |
+| Setup new Instance of EC2 | AWS EC2 | EC2 | Amazon Web Service - Elastic Cloud Computer |
+| Putty and Putty Gen | PPK | PPK | Generating and Securing the SSH connections |
+| Crontab and Windows Scheduler | CRON | CRON | Time based Triggers and Automation |
+| FileZilla/WinSCP | FS | FS | File Upload and File Managements |
+| Apache NgiNx/Tomcat | CONF | CONF | Configuration and Management of Web Servers |
+| Faker and Seeder | Testing | Faker | Fake data generator and database seeder |
+| Test Coverage | Testing | TC | Measure the total test coverage of web application |
+| Docker | CM | CM | Container Manager |
+| Kubernetes/Docker Swarm | CO | CO | Container Orchestrator |
+| Open Shift/MiniShift | CP | CP | Container Platform |
+| SSL, HTTPS, Domain Registrations | SSL | SSL | Understanding how to implement SSL certifications |
+| Angular Application Development | Ng | | Understanding Angular Application Development |
+
 
 ## Getting Started
 
