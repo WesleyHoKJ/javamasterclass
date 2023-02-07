@@ -1,5 +1,69 @@
-## Introduction
-Kana Sabaratnam is a seasoned Java developer with extensive experience in developing modern Java applications. He has recently launched his Modern Java Developer 20 Day Masterclass, which takes you on a comprehensive journey from software engineering to enterprise engineering. This masterclass covers all the essential aspects of modern Java development, including code generation using JHipster, CICD with Jenkins, deployment to AWS Container registry and Kubernetes, and finally using CodeBridge.my to maintain and customize your Java application. With Kana's expertise and hands-on approach, you will gain a deep understanding of how to develop and deploy modern Java applications that meet the demands of today's businesses. Join Kana on this exciting journey and become a skilled Modern Java Developer.
+# Kana Sabaratnam: Modern Java Developer 20 Day Masterclass
+
+Kana Sabaratnam is a seasoned Java developer with extensive experience in developing modern Java applications. He has recently launched his Modern Java Developer 20 Day Masterclass, which takes you on a comprehensive journey from software engineering to enterprise engineering. 
+
+## Course Outline
+
+This masterclass covers all the essential aspects of modern Java development, including:
+- Code generation using JHipster
+- CICD with Jenkins
+- Deployment to AWS Container registry and Kubernetes
+- Using CodeBridge.my to maintain and customize your Java application. 
+
+With Kana's expertise and hands-on approach, you will gain a deep understanding of how to develop and deploy modern Java applications that meet the demands of today's businesses. 
+
+## Join the Journey
+
+Join Kana on this exciting journey and become a skilled Modern Java Developer.
+
+[Course Outline](https://drive.google.com/open?id=15WgvUY7v6jLLGFyvwkvQh_2oYm0HN9G7DQREhyyRU8s&usp=drive_copy)
+
+Day 1.0 - Java Course Outline
+
+Day 1.1 - Intro
+
+Day 1.2 - Java SE Data Types
+
+Day 2 -  Flow Control
+
+Day 3 - Java Class Design
+
+Day 4 - Advance Java Class Features
+
+Day 5- Java I/O Fundamentals
+
+Day 6 - Java GUIs Using the Swing API (Front  End)
+
+Day 7 - Java Events Publishing
+
+Day 8 - Java Swing API Forms
+
+Day 9 - Java EE API Error Handling
+
+Day 10 - Java Database Connectivity
+
+Day 11 - Java Networking and Multi Threading
+
+Day 12 - Web Component Model
+
+Day 13 - Developing HTTP Servlets
+
+Day 14 - EJB Component Model (The Business Logic Layer using Session Beans)
+
+Day 15 - The Java Persistence API and  Entities Classes For EJB 3.0 (DAO Layer)
+
+Day 16 - Implementing a Transaction Policy
+
+Day 17 - Developing JavaEE Applications Using Messaging
+
+Day 18 - Developing Message-Driven Beans
+
+Day 19 - Implementing a Security Policy
+
+Day 20 - Presentation of Project Teams
+
+##Ancilliary Content
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
