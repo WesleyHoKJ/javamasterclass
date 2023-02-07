@@ -16,7 +16,7 @@ With Kana's expertise and hands-on approach, you will gain a deep understanding 
 
 Join Kana on this exciting journey and become a skilled Modern Java Developer.
 
-[Course Outline](https://drive.google.com/open?id=15WgvUY7v6jLLGFyvwkvQh_2oYm0HN9G7DQREhyyRU8s&usp=drive_copy)
+[Course Content](https://drive.google.com/drive/folders/1CLDJ58jbbVBqsrtSvUOt_gNFnw6KR__v)
 
 Day 1.0 - Java Course Outline
 
