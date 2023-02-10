@@ -43,15 +43,20 @@ public class Day4Assignment {
         try {
           File file = new File("file.txt");
           FileReader fileReader = new FileReader(file);
+          fileReader.close();
         } catch (FileNotFoundException e) {
           System.out.println("FileNotFoundException: file.txt not found");
+        } catch (IOException e) {
+          // TODO Auto-generated catch block
+          e.printStackTrace();
         }
     
         // IOException
         try {
           File file = new File("file.txt");
-          FileReader fileReader = new FileReader(file);
-          fileReader.read();
+          try (FileReader fileReader = new FileReader(file)) {
+            fileReader.read();
+          }
         } catch (FileNotFoundException e) {
           System.out.println("FileNotFoundException: file.txt not found");
         } catch (IOException e) {
