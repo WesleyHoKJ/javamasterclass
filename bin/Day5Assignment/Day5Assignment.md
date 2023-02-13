@@ -1,9 +1,6 @@
 # Day 5 Assignment
 
 
-## Load Contacts
-This method uses a BufferedReader to read the contents of the file and stores the information in the ArrayList of Contact objects. If the file does not exist, the method returns without doing anything. If there is an error reading the file, it displays an error message.  
-
         static void loadContacts() {
             File file = new File(FILENAME);
             if (!file.exists()) {
@@ -47,8 +44,7 @@ This method uses a FileWriter to write the contents of the ArrayList of Contact 
                 return;
             }
         }
-        System.out.println("Contact '" + name + "' not found.");
-    }
+    }v
 
 This method uses an iterator to go through the ArrayList of Contact objects and remove the Contact with the specified name. If the contact is found, it is removed from the list and a message indicating that the contact was deleted is displayed. If the contact is not found, a message indicating that the contact was not found is displayed.  
 

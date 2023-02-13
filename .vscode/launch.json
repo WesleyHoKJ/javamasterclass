@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Launch SampleAssign5",
+            "request": "launch",
+            "mainClass": "Day5Assignment.SampleAssign5",
+            "projectName": "MasterClass_d7b02e40"
+        },
+        {
             "name": "Java",
             "type": "java",
             "request": "launch",
