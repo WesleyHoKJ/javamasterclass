@@ -5,7 +5,7 @@ import javax.swing.*;
 public class Day6Assignment1 {
     private static void createAndShowGUI() {
         // Create and set up the window.
-        JFrame frame = new JFrame("HelloWorldSwing");
+        JFrame frame = new JFrame("Hello World Swing");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         // Add a label to the content pane.

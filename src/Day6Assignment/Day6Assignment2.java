@@ -34,7 +34,7 @@ public class Day6Assignment2 extends JFrame {
         add(panel, BorderLayout.SOUTH);
 
         JButton openButton = new JButton("Open");
-        openButton.setBounds(50,100,80,30);    
+        openButton.setBounds(50, 100, 80, 30);
         openButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
@@ -57,7 +57,7 @@ public class Day6Assignment2 extends JFrame {
         panel.add(openButton);
 
         JButton saveButton = new JButton("Save");
-        saveButton.setBounds(100,100,80,30); 
+        saveButton.setBounds(100, 100, 80, 30);
         saveButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
@@ -76,7 +76,7 @@ public class Day6Assignment2 extends JFrame {
         panel.add(saveButton);
 
         JButton saveAsButton = new JButton("Save As");
-        saveAsButton.setBounds(150,100,80,30); 
+        saveAsButton.setBounds(150, 100, 80, 30);
         saveAsButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
@@ -109,7 +109,7 @@ public class Day6Assignment2 extends JFrame {
     public static void main(String[] args) {
         javax.swing.SwingUtilities.invokeLater(new Runnable() {
             public void run() {
-new Day6Assignment2();
+                new Day6Assignment2();
             }
         });
     }
