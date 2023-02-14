@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Day6Assignment3",
+            "request": "launch",
+            "mainClass": "Day6Assignment.Day6Assignment3",
+            "projectName": "MasterClass_d7b02e40"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day6Assignment2",
+            "request": "launch",
+            "mainClass": "Day6Assignment.Day6Assignment2",
+            "projectName": "MasterClass_d7b02e40"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day6Assignment1",
+            "request": "launch",
+            "mainClass": "Day6Assignment.Day6Assignment1",
+            "projectName": "MasterClass_d7b02e40"
+        },
+        {
+            "type": "java",
             "name": "Launch SampleAssign5",
             "request": "launch",
             "mainClass": "Day5Assignment.SampleAssign5",

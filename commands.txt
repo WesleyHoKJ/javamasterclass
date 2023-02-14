@@ -1,0 +1,5 @@
+// restore the gitignore rules
+git rm -rf --cached .
+git add .
+
+//  
