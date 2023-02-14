@@ -16,9 +16,9 @@ public class Switch1 {
             default:
                 i++;
             case "VIOLIN":
-                i++;
+                i++; // post-increment
             case "BERRY":
-                ++i;
+                ++i; // pre-increment
                 break;
         }
         System.out.print(i);

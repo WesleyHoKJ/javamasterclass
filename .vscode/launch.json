@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Switch1",
+            "request": "launch",
+            "mainClass": "QuizExamples.Switch1",
+            "projectName": "MasterClass_d7b02e40"
+        },
+        {
+            "type": "java",
+            "name": "Launch DomainLocalization",
+            "request": "launch",
+            "mainClass": "QuizExamples.DomainLocalization",
+            "projectName": "MasterClass_d7b02e40"
+        },
+        {
+            "type": "java",
+            "name": "Launch IOQuiz",
+            "request": "launch",
+            "mainClass": "QuizExamples.IOQuiz",
+            "projectName": "MasterClass_d7b02e40"
+        },
+        {
+            "type": "java",
             "name": "Launch DomainLocalization",
             "request": "launch",
             "mainClass": "Day5Assignment.DomainLocalization",
