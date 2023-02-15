@@ -11,5 +11,6 @@ public class ExceptionHandling {
        } catch (IOException | IllegalStateException ex) {
            ex = null;
       }
+    }
 
 }

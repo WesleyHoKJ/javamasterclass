@@ -1,6 +1,7 @@
 package Day6Assignment;
 
-import javax.swing.*;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
 
 public class Day6Assignment1 {
     private static void createAndShowGUI() {
