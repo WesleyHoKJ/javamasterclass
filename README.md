@@ -1,4 +1,4 @@
-# Kana Sabaratnam: Modern Java Developer 20 Day Masterclass
+# Modern Java Developer Masterclass
 
 Kana Sabaratnam is a seasoned Java developer with extensive experience in developing modern Java applications. He has recently launched his Modern Java Developer 20 Day Masterclass, which takes you on a comprehensive journey from software engineering to enterprise engineering. 
 
