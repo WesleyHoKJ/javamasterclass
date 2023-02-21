@@ -1,0 +1,167 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Day2Assignment",
+            "request": "launch",
+            "mainClass": "Day2Assignment.Day2Assignment",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day1Assignment",
+            "request": "launch",
+            "mainClass": "Day1Assignment.Day1Assignment",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestAnimal",
+            "request": "launch",
+            "mainClass": "Day3Assignment.TestAnimal",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day4Assignment",
+            "request": "launch",
+            "mainClass": "Day4Assignment.Day4Assignment",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day5Assignment",
+            "request": "launch",
+            "mainClass": "Day5Assignment.Day5Assignment",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day6Assignment1",
+            "request": "launch",
+            "mainClass": "Day6Assignment.Day6Assignment1",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day6Assignment2",
+            "request": "launch",
+            "mainClass": "Day6Assignment.Day6Assignment2",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day6Assignment3",
+            "request": "launch",
+            "mainClass": "Day6Assignment.Day6Assignment3",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch FormExample",
+            "request": "launch",
+            "mainClass": "Day8Assignment.FormExample",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArraysCollections",
+            "request": "launch",
+            "mainClass": "ExamQuizExamples.ArraysCollections",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch DomainLocalization",
+            "request": "launch",
+            "mainClass": "ExamQuizExamples.DomainLocalization",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionHandling",
+            "request": "launch",
+            "mainClass": "ExamQuizExamples.ExceptionHandling",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch IOQuiz",
+            "request": "launch",
+            "mainClass": "ExamQuizExamples.IOQuiz",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaAPIIO",
+            "request": "launch",
+            "mainClass": "ExamQuizExamples.JavaAPIIO",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch LibClass",
+            "request": "launch",
+            "mainClass": "ExamQuizExamples.LibClass",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyResource$Test",
+            "request": "launch",
+            "mainClass": "ExamQuizExamples.MyResource$Test",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Student",
+            "request": "launch",
+            "mainClass": "ExamQuizExamples.Student",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Switch1",
+            "request": "launch",
+            "mainClass": "ExamQuizExamples.Switch1",
+            "projectName": "Day1to8_c57a63f2"
+        }
+    ]
+}
