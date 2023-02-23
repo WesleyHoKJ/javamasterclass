@@ -6,6 +6,419 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Q7",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q7",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q58",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q58",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q53",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q53",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q32",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q32",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q31",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q31",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q25",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q25",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q10",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q10",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q5",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q5",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q4",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q4",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q3",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q3",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q2",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q2",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q1",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q1",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q49",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q49",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q39",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q39",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q38",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q38",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q37",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q37",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q34",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q34",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q33",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q33",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q29",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q29",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q28",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q28",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q27",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q27",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q26",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q26",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q23",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q23",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q22",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q22",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q21",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q21",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q20",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q20",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q19",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q19",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q18",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q18",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q17",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q17",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q16",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q16",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q15",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q15",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q14",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q14",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q13",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q13",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q12",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q12",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q11",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q11",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q8",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q8",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q70",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q70",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q69",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q69",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q67",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q67",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q66",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q66",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q65",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q65",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q64",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q64",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q62",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q62",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q61",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q61",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q60",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q60",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q59",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q59",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q56",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q56",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q55",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q55",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q51",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q51",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch q50",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.q50",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch q48",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.q48",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q47",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q47",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q46",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q46",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q45",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q45",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q44",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q44",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q43",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q43",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q42",
+            "request": "launch",
+            "mainClass": "UdemyExam1Package1.Q42",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q18",
+            "request": "launch",
+            "mainClass": "ExamQuizExamples.QuizzD4_13.Q18",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q3",
+            "request": "launch",
+            "mainClass": "Q3",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
             "name": "Launch Fibonacci",
             "request": "launch",
             "mainClass": "Fibonacci",
