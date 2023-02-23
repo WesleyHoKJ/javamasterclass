@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "Day1to8_c57a63f2"
+        },
+        {
+            "type": "java",
             "name": "Launch Day2Assignment",
             "request": "launch",
             "mainClass": "Day2Assignment.Day2Assignment",
